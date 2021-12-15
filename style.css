@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100%;
+}
+
+.done {
+    background-color: green;
+}
+.not-done {
+    background-color: yellow;
+}
+
+li {
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.set-status {
+    margin-left: 5px;
+    margin-right: 5px;
+}
